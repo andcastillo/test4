@@ -1,5 +1,17 @@
 ## Welcome to GitHub Pages
 
+```html
+<h2>Example of code</h2>
+
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <p>This is a paragraph.</p>
+            <script src="//myradiostream.com/embed/andcastillo"></script>
+        </div>
+    </div>
+</pre>
+```
 
 You can use the [editor on GitHub](https://github.com/andcastillo/test4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
